@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/KotlinProject/Runner/app/src/main/res/layout/activity_login.xml" value="0.1875" />
+        <entry key="..\:/Android/KotlinProject/Runner/app/src/main/res/layout/activity_main.xml" value="0.17527173913043478" />
+        <entry key="..\:/Android/KotlinProject/Runner/app/src/main/res/layout/fragment_home.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android/KotlinProject/Runner/app/src/main/res/layout/fragment_mine.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android/KotlinProject/Runner/app/src/main/res/menu/menu_main.xml" value="0.24947916666666667" />
       </map>
     </option>
   </component>
